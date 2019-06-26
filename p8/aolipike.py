@@ -36,3 +36,5 @@ turtle.pendown()
 turtle.color('green')
 turtle.circle(50)
 
+#练习结束
+
